@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GameCrocodile</string>
+    <string name="Start">ПОГНАЛИ!</string>
+    <string name="app_background_image">background</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Next">Дальше</string>
+    <string name="Fish">Рыба</string>
+    <string name="trueBT">Угадал</string>
+    <string name="falseBT">Пропустить</string>
+    <string name="True">Угадал</string>
+    <string name="False">Пропустить</string>
+</resources>
